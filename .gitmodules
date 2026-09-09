@@ -1,0 +1,6 @@
+[submodule "lessons/lesson02"]
+	path = lessons/lesson02
+	url = https://github.com/srellister/sdev2171lesson02
+[submodule "lessons/lesson03"]
+	path = lessons/lesson03
+	url = https://github.com/srellister/sdev2171lesson03
