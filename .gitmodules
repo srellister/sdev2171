@@ -4,3 +4,9 @@
 [submodule "lessons/lesson03"]
 	path = lessons/lesson03
 	url = https://github.com/srellister/sdev2171lesson03
+[submodule "lessons/lesson01"]
+	path = lessons/lesson01
+	url = https://github.com/srellister/sdev2171lesson01
+[submodule "lessons/lesson04"]
+	path = lessons/lesson04
+	url = https://github.com/srellister/sdev2171lesson04
