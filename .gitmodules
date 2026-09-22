@@ -13,3 +13,6 @@
 [submodule "lessons/lesson04"]
 	path = lessons/lesson04
 	url = https://github.com/srellister/sdev2171lesson04
+[submodule "lessons/as1"]
+	path = lessons/as1
+	url = https://github.com/srellister/SDEV2171_OE01_Asmnt01_Robert-Elliott_srellister
